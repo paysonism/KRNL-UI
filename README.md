@@ -32,7 +32,7 @@
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/P-DennyGamingYT/KRNL-UI/releases/">Download</a>
     ·
     <a href="https://github.com/P-DennyGamingYT/KRNL-UI/issues">Report a Bug</a>
     ·
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[KRNL UI](https://i.ytimg.com/vi/rsoWzXEin7c/maxresdefault.jpg)
+![KRNL UI](https://i.ytimg.com/vi/rsoWzXEin7c/maxresdefault.jpg)
 
 The KRNL UI is a fully custom UI for Synapse X. If you just want to use the KRNL UI but with the functionality of Synapse X, or just like the KRNL UI better, this UI is for you. First off this UI compares to no other UI. This is the official UI from KRNL, the best free roblox exploit. Before people switched to Synapse, they use KRNL. A lot of them got used to the KRNL UI and the Synapse UI was just too different. So I created the KRNL UI, fit for everyone, everything, all the time. I plan on adding in more features in the future such as dark mode and light mode, a settings menu packed with options and much more.
 
