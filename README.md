@@ -1,3 +1,5 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <div id="top"></div>
 
 
@@ -11,9 +13,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
-[![Discord][discord-shield]][linkedin-url]
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/P-DennyGamingYT/KRNL-UI/releases" data-size="large" data-show-count="false" aria-label="Releases">Releases</a>
 
 
 
@@ -199,9 +200,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Payson Holmes - [Discord](https://discord.io/PDennSploit/) - pdennsploit@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/P-DennyGamingYT/KRNL-UI/](https://github.com/P-DennyGamingYT/KRNL-UI/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
