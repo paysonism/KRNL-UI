@@ -14,7 +14,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/P-DennyGamingYT/KRNL-UI/releases/download/v1.0.0/krnlss.zip/" data-icon="octicon-download" data-size="large" aria-label="Download P-DennyGamingYT/KRNL-UI on GitHub">Download</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/P-DennyGamingYT/KRNL-UI/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download P-DennyGamingYT/KRNL-UI on GitHub">Download</a>
 
 
 
