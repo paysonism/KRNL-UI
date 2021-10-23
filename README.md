@@ -36,7 +36,7 @@
     ·
     <a href="https://github.com/P-DennyGamingYT/KRNL-UI/issues">Report a Bug</a>
     ·
-    <a href="mailto:pdennsploit@gmail.com">Request Feature</a>
+    <a href="mailto:paysonholmes@gmail.com">Request Feature</a>
   </p>
 </div>
 
@@ -79,9 +79,9 @@ If the UI is not used or set up correctly it will not work, so follow these step
 2. Extract that folder into your Synapse X folder.
 3. Run krnlss.exe and the UI should open.
 4. Join a game of roblox.
-5. Have Fun!
+5. Inject and the Execute!
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back To Top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -104,10 +104,10 @@ Thank you for reading the KRNL UI for Synapse X Documentation, I would like to g
 
 2. [Microsoft Docs](https://docs.microsoft.com/en-us/) has also been a huge help as I have been reading about what causes the errors I was having and trying to reverse that without losing a feature on the UI.
 
-3. Mom and Dad, I want to thank my parents for telling me that I could do it and that I could finish it (a little of "you need the damn money boy now get to work.") and get it off and ready to sell.
+3. Mom and Dad, I want to thank my parents for telling me that I could do it and that I could finish the UI, (a little bit of "you need the damn money boy now get to work.").
 
 ## Credits
 
-Payson Holmes (P-Denny Gaming) - UI and Backend
+[[YT]P-DennyGaming#0001](https://discord.com/user/769317112602034177) - UI and Backend
 
 <p align="right">(<a href="#top">Back To Top</a>)</p>
