@@ -104,10 +104,10 @@ Thank you for reading the KRNL UI for Synapse X Documentation, I would like to g
 
 2. [Microsoft Docs](https://docs.microsoft.com/en-us/) has also been a huge help as I have been reading about what causes the errors I was having and trying to reverse that without losing a feature on the UI.
 
-3. Mom and Dad, I want to thank my parents for telling me that I could do it and that I could finish the UI, (a little bit of "you need the damn money boy now get to work.").
+3. I just want to thank the community for supporting me during the development of this UI and it has been a great help. Those of you who helped me test out the earlier versions and BETA versions to get the colors and stuff just right, thank you.
 
 ## Credits
 
-[[YT]P-DennyGaming#0001](https://discord.com/user/769317112602034177) - UI and Backend
+[[YT]P-Denny#7313](https://discord.com/user/820680923887566868) - UI and Backend
 
 <p align="right">(<a href="#top">Back To Top</a>)</p>
